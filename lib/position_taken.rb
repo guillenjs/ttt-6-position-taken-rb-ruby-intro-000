@@ -4,5 +4,6 @@ if  board[0] != " "
   " "
 else
    board[0] == " "
+   "x or o"
 end
 end
